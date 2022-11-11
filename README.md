@@ -1,5 +1,7 @@
 # flappy-bird-game-raf
 
+Github pages link: https://pawelnogawka.github.io/flappy-bird-game-raf/
+
 The game comes from the "Complete JavaScript Projects Course Games 55 Modern JS DOM" course.
 
 First, I created the game with the instructor, then from scratch by myself.
